@@ -1,4 +1,4 @@
-<a href="https://zupimages.net/viewer.php?id=20/27/dlmd.jpg"><img src="https://zupimages.net/up/20/27/dlmd.jpg" alt=""  width="200" height="200">/></a>
+<a href="https://zupimages.net/viewer.php?id=20/27/dlmd.jpg"><img src="https://zupimages.net/up/20/27/dlmd.jpg" alt=""  width="200" height="200"/></a>
 <h1>Présentation</h1>
 <ul>
   <li> NOM Prénom : GIGAN Dimitri
