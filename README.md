@@ -14,9 +14,10 @@
   <li>Formation de Développer Web/Web mobile </li>
   <li> 3 GRANDE COMPETENCE </li>
   <ol>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Réaliser une interface utilisateur web statique et
+adaptable</li>
+    <li>Développer les composants d’accès aux donnée</li>
+    <li>Créer une base de données</li>
   </ol>
   <li>12 Mois</li>
   <li>Nombre d'aprennnants dans la formation: 11<li/>
