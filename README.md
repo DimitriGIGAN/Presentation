@@ -7,6 +7,7 @@
   <li>SECTION 4</li>
   </ul>
   <p>----------------------------------------------------------------------------------------</p>
+   <a href="https://zupimages.net/viewer.php?id=20/27/gnol.png"><img src="https://zupimages.net/up/20/27/gnol.png" alt="" /></a>
    <h2>GIGAN Dimitri<h2>                                                                      
 <ul>
   <li>Formation de Développer Web/Web mobile </li>
@@ -15,5 +16,6 @@
     <li></li>
     <li></li>
     <li></li>
+  </ol>
   <li>12 Mois</li>
   
