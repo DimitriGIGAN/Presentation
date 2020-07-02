@@ -12,7 +12,7 @@
    <h2>GIGAN Dimitri</h2>                                                                      
 <ul>
   <li>Formation de Développer Web/Web mobile </li>
-  <li> 3 GRANDE COMPETENCE </li>
+  <li> _3 GRANDE COMPETENCE_ </li>
   <ol>
     <li>Réaliser une interface utilisateur web statique et
 adaptable</li>
