@@ -20,3 +20,4 @@
   </ol>
   <li>12 Mois</li>
   <li>Nombre d'aprennnants dans la formation: 11<li/>
+</ul>
