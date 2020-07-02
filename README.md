@@ -1,9 +1,10 @@
 <a href="https://zupimages.net/viewer.php?id=20/27/dlmd.jpg"><img src="https://zupimages.net/up/20/27/dlmd.jpg" alt=""  width="200" height="200">/></a>
-<h1>GIGAN Dimitri</h1>
+<h1>Présentation</h1>
 <ul>
-  <li>23 ans </li>
-  <li>3 Allée des Zinnias Champ-Fleurie 97490 Sainte Clotilde</li>
-  <li>Française</li>
+  <li> NOM Prénom : GIGAN Dimitri
+  <li>Age:23 ans </li>
+  <li>Adresse:3 Allée des Zinnias Champ-Fleurie 97490 Sainte Clotilde</li>
+  <li>Nationalité:Française</li>
   <li>SECTION 4</li>
   </ul>
   <p>----------------------------------------------------------------------------------------</p>
